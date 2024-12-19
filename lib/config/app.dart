@@ -1,5 +1,5 @@
 import 'package:vania/vania.dart';
-import 'package:rizky_jago/app/providers/route_service_provider.dart';
+import 'package:farel_123/app/providers/route_service_provider.dart';
 
 import 'auth.dart';
 import 'cors.dart';

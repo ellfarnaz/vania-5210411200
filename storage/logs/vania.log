@@ -1,0 +1,2 @@
+[2024-12-19 15:45:42] ERROR: MySQLServerException [1146]: Table 'vaniafarel.personal_access_tokens' doesn't exist
+[2024-12-19 15:45:46] ERROR: MySQLServerException [1146]: Table 'vaniafarel.personal_access_tokens' doesn't exist

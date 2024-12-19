@@ -1,4 +1,4 @@
-name: rizky_jago
+name: farel_123
 description: Sample Vania backend web application framework
 version: 1.0.0
 
@@ -8,7 +8,6 @@ environment:
 # Add regular dependencies here.
 dependencies:
   vania: ^0.6.2
-
 
 dev_dependencies:
   lints: ^2.1.0

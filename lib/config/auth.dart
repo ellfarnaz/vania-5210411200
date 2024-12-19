@@ -1,4 +1,4 @@
-import 'package:rizky_jago/app/models/user.dart';
+import 'package:farel_123/app/models/user.dart';
 
 Map<String, dynamic> authConfig = {
   'guards': {
